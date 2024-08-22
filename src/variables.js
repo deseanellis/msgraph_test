@@ -1,6 +1,6 @@
 export const Keys = {
   ClientID: "",
   TenantID: "",
-  Secret: "",
+  SecretValue: "",
   SiteID: "",
 };
